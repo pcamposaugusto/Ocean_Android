@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ocean_Android_Intro</string>
+    <string name="send">Send</string>
+    <string name="type_your_name">Type your name...</string>
+    <string name="open_new_screen">Open new screen...</string>
+    <string name="back">Back</string>
+    <string name="type_valid_name">Type a valid name.</string>
+    <string name="updated_successfully">Updated successfully</string>
+</resources>

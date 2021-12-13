@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ocean_Android_Intro</string>
+    <string name="send">Enviar</string>
+    <string name="type_your_name">Escreva seu nome...</string>
+    <string name="open_new_screen">Abrir nova tela...</string>
+    <string name="back">Voltar</string>
+    <string name="type_valid_name">Digite um nome válido.</string>
+    <string name="updated_successfully">Atualizado com sucesso</string>
+</resources>
